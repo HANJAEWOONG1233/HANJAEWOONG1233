@@ -12,7 +12,6 @@
 ## Awards 🏆:
 - 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
 
-  _Your award-related project or paper [link]_
 
 ## Publications 📄:
 
