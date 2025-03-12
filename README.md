@@ -17,7 +17,7 @@
 
 | 제목 | 학회 |
 |------|------|
-| An Approach to Data Augmentation for Object Detection | 2024 한국통신학회 한국 인공지능 학술대회 🔗 [github](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
+| An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [github](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
 ## Tech Stack 💻:
 
