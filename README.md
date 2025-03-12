@@ -1,7 +1,5 @@
 # Jaewong Han
 
-![Profile Image](your-image-url) <!-- 프로필 이미지가 있다면 추가 -->
-
 ## About Me 🧑‍💻:
 - 🎓 I'm a High School Student specializing in AI and Deep Learning.
 - 🤝 I'm eager to collaborate and learn from others.
