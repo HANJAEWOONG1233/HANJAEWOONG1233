@@ -32,8 +32,6 @@
 
 ## Recent Projects 🚀:
 
-## Recent Projects 🚀:
-
 | Project Name & Description | Link |
 |---------------------------|------|
 | **Project 1** - A brief description of Project 1 | 🔗 [GitHub](#) |
