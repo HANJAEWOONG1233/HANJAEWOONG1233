@@ -34,6 +34,6 @@
 
 | Project Name & Description | Link |
 |---------------------------|------|
-| **Stock-Prediction-4-Hour Rolling Prediction & Factor-Based Backtesting** - A brief description of Project 1 | 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
+| **Stock-Prediction-4-Hour Rolling Prediction & Factor-Based Backtesting** | 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
 | **Classifying-health-status-data-using-machine-learning** | 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Classifying-health-status-data-using-machine-learning) |
 | **LEGO-EV3-PingPongShooter**  | 🔗 [GitHub](https://github.com/HANJAEWOONG1233/LEGO-EV3-PingPongShooter) |
