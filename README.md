@@ -5,7 +5,9 @@
 - 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.  
 
 ## Activity 🌟:
-- (2024.08) 🇲🇾 UCSI 해외인턴쉽 [github](https://github.com/2024-01-UCSI-HB-project)
+- (2024.04 ~) 🔬 ISW Network 학부연구생 [website](https://sites.google.com/view/hisw)  
+- (2024.08) 🇲🇾 UCSI 해외인턴쉽 [github](https://github.com/2024-01-UCSI-HB-project)  
+
   
 ## Awards 🏆:
 - 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
