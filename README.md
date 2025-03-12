@@ -18,8 +18,7 @@
 
 | 제목 | 학회 |
 |------|------|
-| **논문 제목 1** | 2025 참여 학회 1 📎 
-| **논문 제목 2** | 2024 참여 학회 2 📎 [github] |
+| An Approach to Data Augmentation for Object Detection | 2024 한국통신학회 한국 인공지능 학술대회 🔗 [github]
 
 ## Tech Stack 💻:
 
