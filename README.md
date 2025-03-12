@@ -32,10 +32,10 @@
 
 ## Recent Projects 🚀:
 
-| 프로젝트명 및 설명 | 링크 |
-|------------------|------|
-| **프로젝트 1** - 프로젝트 1에 대한 간단한 설명 | 🔗 [GitHub](#) |
-| **프로젝트 2** - 프로젝트 2에 대한 간단한 설명 | 🔗 [GitHub](#) |
-| **프로젝트 3** - 프로젝트 3에 대한 간단한 설명 | 🔗 [GitHub](#) |
+## Recent Projects 🚀:
 
-
+| Project Name & Description | Link |
+|---------------------------|------|
+| **Project 1** - A brief description of Project 1 | 🔗 [GitHub](#) |
+| **Project 2** - A brief description of Project 2 | 🔗 [GitHub](#) |
+| **Project 3** - A brief description of Project 3 | 🔗 [GitHub](#) |
