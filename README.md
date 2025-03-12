@@ -1,4 +1,4 @@
-# Jaewong Han
+# Jaewoong Han
 
 ## About Me 🧑‍💻:
 - 🎓 I'm a High School Student specializing in AI and Deep Learning.
