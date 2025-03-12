@@ -1,8 +1,8 @@
 # Jaewoong Han
 
 ## About Me 🧑‍💻:
-- 🎓 I'm a High School Student specializing in AI and Deep Learning.
-- 🤝 I'm eager to collaborate and learn from others.
+- 🎓 I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.  
+- 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.  
 
 ## Activity 🌟:
 - (2024.08) 🇲🇾 UCSI 해외인턴쉽 [github](https://github.com/2024-01-UCSI-HB-project)
