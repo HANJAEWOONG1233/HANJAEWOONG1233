@@ -17,7 +17,7 @@
 
 | 제목 | 학회 |
 |------|------|
-| An Approach to Data Augmentation for Object Detection | 2024 한국통신학회 한국 인공지능 학술대회 🔗 [github]
+| An Approach to Data Augmentation for Object Detection | 2024 한국통신학회 한국 인공지능 학술대회 🔗 [github](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
 ## Tech Stack 💻:
 
@@ -26,10 +26,6 @@
 
 ### Frameworks & Libraries  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-
-
-### AI & Machine Learning  
-- Machine Learning  
 
 ### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
