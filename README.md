@@ -7,13 +7,12 @@
 - 🤝 I'm eager to collaborate and learn from others.
 
 ## Activity 🌟:
-- (2024.XX ~ 2024.XX) 참여한 활동 1 [link]
+- (2024.08) 🇲🇾 UCSI 해외인턴쉽
 - (2024.XX) 참여한 활동 2 [github]
 
 ## Awards 🏆:
-- 2024 수상 경력 1 🥇
-- 2024 수상 경력 2 🥈
-- 2025 수상 경력 3 🥉  
+- 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
+
   _Your award-related project or paper [link]_
 
 ## Publications 📄:
