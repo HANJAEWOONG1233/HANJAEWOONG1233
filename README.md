@@ -1,4 +1,4 @@
-# 🌟 Jaewoong Han  
+# Jaewoong Han  
 
 ## 🚀 About Me  
 - 🎓 I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.  
