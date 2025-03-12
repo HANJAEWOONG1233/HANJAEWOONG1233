@@ -36,4 +36,4 @@
 |---------------------------|------|
 | **Project 1** - A brief description of Project 1 | 🔗 [GitHub](#) |
 | **Classifying-health-status-data-using-machine-learning** | 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Classifying-health-status-data-using-machine-learning) |
-| **LEGO-EV3-PingPongShooter**  | 🔗 [GitHub](#) |
+| **LEGO-EV3-PingPongShooter**  | 🔗 [GitHub](https://github.com/HANJAEWOONG1233/LEGO-EV3-PingPongShooter) |
