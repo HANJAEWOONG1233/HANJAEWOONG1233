@@ -35,5 +35,5 @@
 | Project Name & Description | Link |
 |---------------------------|------|
 | **Project 1** - A brief description of Project 1 | 🔗 [GitHub](#) |
-| **Project 2** - A brief description of Project 2 | 🔗 [GitHub](#) |
+| **Classifying-health-status-data-using-machine-learning** | 🔗 [GitHub](#) |
 | **Project 3** - A brief description of Project 3 | 🔗 [GitHub](#) |
