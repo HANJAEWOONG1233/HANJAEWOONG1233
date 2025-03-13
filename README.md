@@ -1,5 +1,9 @@
 # Jaewoong Han  
 
+## 🚀 About Me  
+- 🎓 I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.  
+- 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.
+
 ## 📌 Resume  
 
 - **Undergraduate Researcher, ISW Network** (2024.04 ~) 🔬 [Website](https://sites.google.com/view/hisw)  
