@@ -24,7 +24,7 @@
 
 | Title | Conference |
 |------|------|  
-| An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+| An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [[GitHub]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
 
 
 
@@ -43,7 +43,7 @@
 
 | 🏗 **Project Name & Description** | 🔗 **Link** |
 |----------------------------------|------------|
-| **📊 Stock Prediction - 4-Hour Rolling Window & Factor-Based Backtesting** | [🔗 GitHub](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
+| **📊 Stock Prediction - 4-Hour Rolling Window & Factor-Based Backtesting** | [[🔗 GitHub]](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
 | **📈 Classifying Health Status Data Using Machine Learning** | [🔗 GitHub](https://github.com/HANJAEWOONG1233/Classifying-health-status-data-using-machine-learning) |
 | **🤖 LEGO EV3 Ping Pong Shooter** | [🔗 GitHub](https://github.com/HANJAEWOONG1233/LEGO-EV3-PingPongShooter) |
 
