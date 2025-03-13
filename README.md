@@ -2,13 +2,14 @@
 
 ## 🚀 About Me  
 - 🎓 I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.  
-- 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.
+- 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.  
 
-## 📌 Resume  
+## 🌟 Activity & Experience
+- (2024.04 ~) 🔬 ISW Network 학부연구생 [website](https://sites.google.com/view/hisw)  
+- (2024.08) 🇲🇾 UCSI 해외인턴쉽 [github](https://github.com/2024-01-UCSI-HB-project)  
 
-- **Undergraduate Researcher, ISW Network** (2024.04 ~) 🔬 [Website](https://sites.google.com/view/hisw)  
-- **Intern, UCSI Overseas Internship** (2024.08) 🇲🇾 [GitHub](https://github.com/2024-01-UCSI-HB-project)  
-- **2024 제5회 한국인공지능학술대회 논문 장려상 🥉** | *An Approach to Data Augmentation for Object Detection* [🔗 GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+## 🏆 Prize
+- 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
 
 ## 🛠️ Tech Stack  
 
