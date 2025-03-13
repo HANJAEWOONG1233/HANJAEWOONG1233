@@ -18,11 +18,11 @@
   
 
 ## 🌟 Activity & Experience
--  ISW Network 학부연구생 (2024.04 ~) 🔬 [[WebSite]](https://sites.google.com/view/hisw)  
--  말레이시아 UCSI 해외인턴쉽 (2024.08) 🌏 [[GitHub]](https://github.com/2024-01-UCSI-HB-project)  
+-  🔬 ISW Network 학부연구생 (2024.04 ~)  [[WebSite]](https://sites.google.com/view/hisw)  
+-  🌏 말레이시아 UCSI 해외인턴쉽 (2024.08)  [[GitHub]](https://github.com/2024-01-UCSI-HB-project)  
 
 ## 🏆 Awards
--  2024 제5회 한국인공지능학술대회 논문 장려상 🥉 
+-  🥉 2024 제5회 한국인공지능학술대회 논문 장려상 🥉 
 
 ## 📄 Papers  
 
