@@ -2,7 +2,6 @@
 
 ## 📌 Resume  
 
-- **Chungnam High School** (2022 ~ Present)  
 - **Undergraduate Researcher, ISW Network** (2024.04 ~) 🔬 [Website](https://sites.google.com/view/hisw)  
 - **Intern, UCSI Overseas Internship** (2024.08) 🇲🇾 [GitHub](https://github.com/2024-01-UCSI-HB-project)  
 - **2024 제5회 한국인공지능학술대회 논문 장려상 🥉** | *An Approach to Data Augmentation for Object Detection* [🔗 GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
