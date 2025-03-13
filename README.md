@@ -25,7 +25,7 @@
 
 | Title | Conference |
 |------|------|  
-| An Approach to Data Augmentation for Object Detection | 2024 The 5th Korean AI Conference 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+| An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
 
 
 
