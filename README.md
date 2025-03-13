@@ -1,6 +1,6 @@
 # Jaewoong Han  
 
-## 🚀 Introducing
+## 🚀 About Me  
 - 🎓 I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.  
 - 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.  
 
@@ -19,21 +19,6 @@
 | 제목 | 학회 |
 |------|------|
 | An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [github](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
-
-## 🚀 About Me  
-- 🎓 I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.  
-- 🚀 My ultimate goal is to become a full-stack developer who can handle all fields of development.  
-
-## 🌟 Activities & Experiences  
-- 🔬 ISW Network 학부연구생 | [ISW Network](https://sites.google.com/view/hisw) (2024.04 ~)  
-- UCSI 해외인턴쉽 | [UCSI, Malaysia](https://github.com/2024-01-UCSI-HB-project) (2024.08)  
-
-## 🏆 Achievements  
-- 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
-
-📄 **Publication**  
-- **An Approach to Data Augmentation for Object Detection**  
-  *Presented at the 5th Korean AI Conference (2024)* 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
 
 ## 🛠️ Tech Stack  
 
