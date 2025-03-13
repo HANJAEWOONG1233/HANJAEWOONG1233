@@ -43,7 +43,7 @@
 
 ## 🚀 Recent Projects  
 
-| 🏗 **Project Name & Description** | 🔗 **Link** |
+| **Project Name & Description** | **Link** |
 |----------------------------------|------------|
 | **📊 Stock Prediction - 4-Hour Rolling Window & Factor-Based Backtesting** | 🔗 [[GitHub]](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
 | **📈 Classifying Health Status Data Using Machine Learning** |🔗 [[GitHub]](https://github.com/HANJAEWOONG1233/Classifying-health-status-data-using-machine-learning) |
