@@ -11,6 +11,13 @@
 ## 🏆 Prize
 - 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
 
+## 📄 Papers  
+
+| 제목 | 학회 |
+|------|------|  
+| An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+
+
 ## 🛠️ Tech Stack  
 
 ### 🌐 Languages   
