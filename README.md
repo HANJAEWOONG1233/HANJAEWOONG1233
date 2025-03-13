@@ -20,6 +20,21 @@
 |------|------|
 | An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [github](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
+## 🚀 About Me  
+🎓 **AI Software Major** (3rd Year) | Hanbat National University  
+💡 **Aspiring Full-Stack Developer** | Passionate about mastering all fields of development  
+
+## 🌟 Activities & Experiences  
+- 🔬 **Undergraduate Researcher** | [ISW Network](https://sites.google.com/view/hisw) (2024.04 ~)  
+- 🇲🇾 **Overseas Internship** | [UCSI, Malaysia](https://github.com/2024-01-UCSI-HB-project) (2024.08)  
+
+## 🏆 Achievements  
+🥉 **Honorable Mention** | 5th Korean AI Conference (2024)  
+
+📄 **Publication**  
+- **An Approach to Data Augmentation for Object Detection**  
+  *Presented at the 5th Korean AI Conference (2024)* 🔗 [GitHub](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+
 ## 🛠️ Tech Stack  
 
 ### 🌐 Languages   
