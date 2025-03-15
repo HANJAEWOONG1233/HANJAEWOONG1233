@@ -18,7 +18,7 @@
 
 ## 📌 My Resume
 
-- 🔬 **ISW Network** (Apr. 2024 – Present) [[Undergraduate Researcher]](https://sites.google.com/view/hisw)  
+- 🔬 **ISW Network** (Apr. 2024 – Present) [[Undergraduate Researcher]][[🔗]](https://sites.google.com/view/hisw)  
 
 - 🌏 **UCSI University, Malaysia** (Aug. 2024) [[Overseas Internship]](https://github.com/2024-01-UCSI-HB-project)  
 
