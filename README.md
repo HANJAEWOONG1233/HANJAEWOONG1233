@@ -22,7 +22,7 @@
 
 - 🌏 **Overseas Intern, UCSI University, Malaysia** (Aug. 2024) [[🔗]](https://github.com/2024-01-UCSI-HB-project)  
 
-- 🥉 **Paper Encouragement Award, The 5th Korea Artificial Intelligence Conference** (Sep. 2024) [[DBpia Paper 🔗]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [[GitHub Code 🔗]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
+- 🥉 **Paper Encouragement Award, The 5th Korea Artificial Intelligence Conference** (Sep. 2024) [[🔗]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [[🔗]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
 
 
