@@ -18,7 +18,7 @@
   
 ## 📌 My Resume
 
-- 🔬 **ISW Network** – Undergraduate Researcher (2024.04 ~)
+- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)
   [![Official Website](https://img.shields.io/badge/Official%20Website-000000?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://sites.google.com/view/hisw)
 
 - 🌏 **UCSI University, Malaysia** – Overseas Internship (2024.08)
