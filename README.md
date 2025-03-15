@@ -25,6 +25,13 @@
 - 🥉 **2024 제5회 한국인공지능학술대회 논문 장려상** (2024.09) – [DBpia 논문 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [GitHub 논문 코드](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
 
+## 📌 My Resume
+
+- 🔬 **ISW Network** (Apr. 2024 – Present) – [Undergraduate Researcher](https://sites.google.com/view/hisw)  
+
+- 🌏 **UCSI University, Malaysia** (Aug. 2024) – [Overseas Internship](https://github.com/2024-01-UCSI-HB-project)  
+
+- 🥉 **The 5th Korean AI Conference 2024 – Paper Encouragement Award** (Sep. 2024) – [DBpia Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [GitHub Code](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
 
 
