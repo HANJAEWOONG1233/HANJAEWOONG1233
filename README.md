@@ -18,11 +18,12 @@
 
 ## 📌 My Resume
 
-- 🔬 **ISW Network Undergraduate Researcher** (Apr. 2024 – Present) [[🔗]](https://sites.google.com/view/hisw)  
+- 🔬 **Undergraduate Researcher, ISW Network** (Apr. 2024 – Present) [[🔗]](https://sites.google.com/view/hisw)  
 
-- 🌏 **UCSI University, Malaysia Overseas Internship** (Aug. 2024) [[🔗]](https://github.com/2024-01-UCSI-HB-project)  
+- 🌏 **Overseas Intern, UCSI University, Malaysia** (Aug. 2024) [[🔗]](https://github.com/2024-01-UCSI-HB-project)  
 
-- 🥉 **The 5th Korea Artificial Intelligence Conference – Paper Encouragement Award** (Sep. 2024) [[🔗]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [[🔗]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
+- 🥉 **Paper Encouragement Award, The 5th Korea Artificial Intelligence Conference** (Sep. 2024) [[DBpia Paper 🔗]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [[GitHub Code 🔗]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
+
 
 
 
