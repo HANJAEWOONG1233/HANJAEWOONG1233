@@ -17,18 +17,11 @@
 -  My ultimate goal is to become a full-stack developer who can handle all fields of development.
   
 
-## 🌟 Activity & Experience
--  🔬 ISW Network 학부연구생 (2024.04 ~) 🔗 [[WebSite]](https://sites.google.com/view/hisw)  
--  🌏 말레이시아 UCSI 해외인턴쉽 (2024.08) 🔗 [[GitHub]](https://github.com/2024-01-UCSI-HB-project)  
+### 📌 My Resume  
 
-## 🏆 Awards
--  🥉 2024 제5회 한국인공지능학술대회 논문 장려상 
-
-## 📄 Papers  
-
-| Title | Conference |
-|------|------|  
-| An Approach to Data Augmentation for Object Detection | 2024 제5회 한국인공지능학술대회 🔗 [[GitHub]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~) 🔗 [[WebSite]](https://sites.google.com/view/hisw)  
+- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08) 🔗 [[GitHub]](https://github.com/2024-01-UCSI-HB-project)  
+- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 | 📄 **논문:** "An Approach to Data Augmentation for Object Detection" 🔗 [[GitHub]](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
 
 
 
