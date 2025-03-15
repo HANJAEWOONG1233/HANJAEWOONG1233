@@ -21,10 +21,10 @@
 - 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)
   [![Official Website](https://img.shields.io/badge/Official%20Website-000000?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://sites.google.com/view/hisw)
 
-- 🌏 **UCSI University, Malaysia** – Overseas Internship (2024.08)
+- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)  
   [![GitHub Project](https://img.shields.io/badge/GitHub%20Project-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/2024-01-UCSI-HB-project)
 
-- 🥉 **The 5th Korean AI Conference 2024** – Paper Encouragement Award (2024.09)
+- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)  
   [![Paper on DBpia](https://img.shields.io/badge/Paper%20on%20DBpia-FF6F00?style=flat-square&logo=Read%20the%20Docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311)
   [![GitHub Code](https://img.shields.io/badge/GitHub%20Code-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
