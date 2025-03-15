@@ -16,32 +16,32 @@
 -  I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.
 -  My ultimate goal is to become a full-stack developer who can handle all fields of development.
   
-
 ## 📌 My Resume
 
-- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)  
-  <div style="display: inline-block;">
+- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)
+  <span style="display: inline-block;">
     <a href="https://sites.google.com/view/hisw">
       <img src="https://img.shields.io/badge/Official%20Website-000000?style=flat-square&logo=Google%20Chrome&logoColor=white" alt="Official Website">
     </a>
-  </div>
+  </span>
 
-- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)  
-  <div style="display: inline-block;">
+- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)
+  <span style="display: inline-block;">
     <a href="https://github.com/2024-01-UCSI-HB-project">
       <img src="https://img.shields.io/badge/GitHub%20Project-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Project">
     </a>
-  </div>
+  </span>
 
-- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)  
-  <div style="display: inline-block;">
+- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)
+  <span style="display: inline-block;">
     <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311">
       <img src="https://img.shields.io/badge/Paper%20on%20DBpia-FF6F00?style=flat-square&logo=Read%20the%20Docs&logoColor=white" alt="Paper on DBpia">
     </a>
     <a href="https://github.com/HANJAEWOONG1233/Traffic-light-classification-code">
       <img src="https://img.shields.io/badge/GitHub%20Code-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Code">
     </a>
-  </div>
+  </span>
+
 
 
   ## 📌 My Resume
