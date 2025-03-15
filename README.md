@@ -15,15 +15,6 @@
   
 -  I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.
 -  My ultimate goal is to become a full-stack developer who can handle all fields of development.
-  
-## 📌 My Resume
-
-- 🔬 **ISW Network** (2024.04 ~) – [학부 연구생](https://sites.google.com/view/hisw)  
-
-- 🌏 **말레이시아 UCSI 대학** (2024.08) – [해외 인턴십](https://github.com/2024-01-UCSI-HB-project)  
-
-- 🥉 **2024 제5회 한국인공지능학술대회 논문 장려상** (2024.09) – [DBpia 논문 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | [GitHub 논문 코드](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
-
 
 ## 📌 My Resume
 
