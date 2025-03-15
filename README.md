@@ -22,7 +22,7 @@
 
 - 🌏 말레이시아 UCSI 대학(2024.08) – [**해외 인턴십**](https://github.com/2024-01-UCSI-HB-project)
 
-- 🥉 2024 제5회 한국인공지능학술대회(2024.09) –  [**논문 장려상 (DBpia 링크)**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) |  [**논문 장려상 (GitHub 코드)**](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code) 
+- 🥉 2024 제5회 한국인공지능학술대회 논문 장려상 (2024.09) –  [**(DBpia 논문 링크)**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) |  [**(GitHub 논문 코드)**](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code) 
 
 
 
