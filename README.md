@@ -16,17 +16,18 @@
 -  I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University.
 -  My ultimate goal is to become a full-stack developer who can handle all fields of development.
   
+## 📌 My Resume
 
-## 📌 My Resume  
+- 🔬 **ISW Network** – Undergraduate Researcher (2024.04 ~)
+  [![Official Website](https://img.shields.io/badge/Official%20Website-000000?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://sites.google.com/view/hisw)
 
-- 🔬 **ISW Network** – Undergraduate Researcher (2024.04 ~)  
-  🔗 [Official Website](https://sites.google.com/view/hisw)  
+- 🌏 **UCSI University, Malaysia** – Overseas Internship (2024.08)
+  [![GitHub Project](https://img.shields.io/badge/GitHub%20Project-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/2024-01-UCSI-HB-project)
 
-- 🌏 **UCSI University, Malaysia** – Overseas Internship (2024.08)  
-  🔗 [GitHub Project](https://github.com/2024-01-UCSI-HB-project)  
+- 🥉 **The 5th Korean AI Conference 2024** – Paper Encouragement Award (2024.09)
+  [![Paper on DBpia](https://img.shields.io/badge/Paper%20on%20DBpia-FF6F00?style=flat-square&logo=Read%20the%20Docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311)
+  [![GitHub Code](https://img.shields.io/badge/GitHub%20Code-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
 
-- 🥉 **The 5th Korean AI Conference 2024** – Paper Encouragement Award (2024.09)  
-  🔗 [Paper on DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | 🔗 [GitHub Code](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
 
 
 
