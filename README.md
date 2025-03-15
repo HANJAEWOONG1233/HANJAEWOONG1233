@@ -18,40 +18,13 @@
   
 ## 📌 My Resume
 
-- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)
-  <span style="display: inline-block;">
-    <a href="https://sites.google.com/view/hisw">
-      <img src="https://img.shields.io/badge/Official%20Website-000000?style=flat-square&logo=Google%20Chrome&logoColor=white" alt="Official Website">
-    </a>
-  </span>
+- 🔬 [**ISW Network – 학부 연구생**](https://sites.google.com/view/hisw) (2024.04 ~)  
 
-- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)
-  <span style="display: inline-block;">
-    <a href="https://github.com/2024-01-UCSI-HB-project">
-      <img src="https://img.shields.io/badge/GitHub%20Project-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Project">
-    </a>
-  </span>
+- 🌏 [**말레이시아 UCSI 대학 – 해외 인턴십**](https://github.com/2024-01-UCSI-HB-project) (2024.08)  
 
-- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)
-  <span style="display: inline-block;">
-    <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311">
-      <img src="https://img.shields.io/badge/Paper%20on%20DBpia-FF6F00?style=flat-square&logo=Read%20the%20Docs&logoColor=white" alt="Paper on DBpia">
-    </a>
-    <a href="https://github.com/HANJAEWOONG1233/Traffic-light-classification-code">
-      <img src="https://img.shields.io/badge/GitHub%20Code-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Code">
-    </a>
-  </span>
-
-
-
-  ## 📌 My Resume
-
-- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)  [![Official Website](https://img.shields.io/badge/Official%20Website-000000?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://sites.google.com/view/hisw)
-
-- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)  [![GitHub Project](https://img.shields.io/badge/GitHub%20Project-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/2024-01-UCSI-HB-project)
-
-- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)  [![Paper on DBpia](https://img.shields.io/badge/Paper%20on%20DBpia-FF6F00?style=flat-square&logo=Read%20the%20Docs&logoColor=white)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311)  [![GitHub Code](https://img.shields.io/badge/GitHub%20Code-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)
-
+- 🥉 **2024 제5회 한국인공지능학술대회** –  
+  [**논문 장려상 (DBpia 링크)**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) |  
+  [**논문 장려상 (GitHub 코드)**](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code) (2024.09)
 
 
 
