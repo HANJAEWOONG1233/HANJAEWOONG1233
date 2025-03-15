@@ -19,14 +19,11 @@
 
 ## 📌 My Resume  
 
-- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)  
-  🔗 [공식 웹사이트](https://sites.google.com/view/hisw)  
+- 🔬 **ISW Network** – 학부 연구생 (2024.04 ~)  🔗 [공식 웹사이트](https://sites.google.com/view/hisw)  
 
-- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)  
-  🔗 [GitHub 프로젝트](https://github.com/2024-01-UCSI-HB-project)  
+- 🌏 **말레이시아 UCSI 대학** – 해외 인턴십 (2024.08)  🔗 [GitHub 프로젝트](https://github.com/2024-01-UCSI-HB-project)  
 
-- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)  
-  🔗 [논문 DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | 🔗 [GitHub 코드](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
+- 🥉 **2024 제5회 한국인공지능학술대회** – 논문 장려상 (2024.09)  🔗 [논문 DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) | 🔗 [GitHub 코드](https://github.com/HANJAEWOONG1233/Traffic-light-classification-code)  
 
 
 ## 🛠️ Tech Stack  
