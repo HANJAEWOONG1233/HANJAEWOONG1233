@@ -40,11 +40,11 @@
 
 ## 🚀 Recent Projects  
 
-| **Date**  | **Project Name & Description** |
-|---------|--------------------------------|
-| 2025.02 | **📊 Stock Prediction - 4-Hour Rolling Window & Factor-Based Backtesting** [[🔗]](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
-| 2024.12 | **📈 Classifying Health Status Data Using Machine Learning** [[🔗]](https://github.com/HANJAEWOONG1233/Classifying-health-status-data-using-machine-learning) |
-| 2024.11 | **🤖 LEGO EV3 Ping Pong Shooter** [[🔗]](https://github.com/HANJAEWOONG1233/LEGO-EV3-PingPongShooter) |
+| **Project Name & Description** |
+|--------------------------------|
+| **📊 Stock Prediction - 4-Hour Rolling Window & Factor-Based Backtesting (Feb 2025)** [[🔗]](https://github.com/HANJAEWOONG1233/Stock-Prediction-RollingWindow) |
+| **📈 Classifying Health Status Data Using Machine Learning (Dec 2024)** [[🔗]](https://github.com/HANJAEWOONG1233/Classifying-health-status-data-using-machine-learning) |
+| **🤖 LEGO EV3 Ping Pong Shooter (Nov 2024)** [[🔗]](https://github.com/HANJAEWOONG1233/LEGO-EV3-PingPongShooter) |
 
 ---
 
