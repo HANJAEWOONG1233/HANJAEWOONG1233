@@ -19,7 +19,7 @@
 
 ## 📌 My Resume
 
-- 🔬 **Undergraduate Researcher, ISW Network, Hanbat National University (Junior)** (Apr. 2024 – Present) [[🔗]](https://sites.google.com/view/hisw)  
+- 🔬 **Undergraduate Researcher, ISW Network, Hanbat National University (Junior)** (Apr. 2024 – June. 2024) [[🔗]](https://sites.google.com/view/hisw)  
 
 - 🌏 **Overseas Intern, UCSI University, Malaysia** (Aug. 2024)  [[🔗]](https://github.com/2024-01-UCSI-HB-project)  
 
