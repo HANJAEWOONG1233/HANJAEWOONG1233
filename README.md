@@ -28,17 +28,16 @@
 
 
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack
 
-### 🌐 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🌐 Languages
+![Python](...) ![SQL](...)
 
-### 📚 Frameworks & Libraries  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+#### 📚 Frameworks & Libraries
+![NumPy](...) ![Pandas](...) ![Scikit-Learn](...)
 
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+#### ⚙️ Tools & Platforms
+[Palantir Foundry](https://img.shields.io/badge/Palantir%20Foundry-000000?style=for-the-badge)![Git](...) ![Docker](...) ![AWS](...) !
 
 ---
 
