@@ -13,7 +13,7 @@
 
   ## 👀 Introducing
   
--  I'm a 3rd-year undergraduate student majoring in AI Software at Hanbat National University
+-  I'm a 4th-year undergraduate student majoring in AI Software at Hanbat National University
   
 -  My ultimate goal is to become a full-stack developer who can handle all fields of development
 
